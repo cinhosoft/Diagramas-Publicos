@@ -10,9 +10,6 @@
         <mxCell id="77e6c97f196da883-2" value="Orden de Cirugía" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="170" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="30" y="560" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-18" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="110" y="180" width="60" height="30" as="geometry" />
         </mxCell>
@@ -23,45 +20,6 @@
           <mxGeometry x="30" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-2" source="L7PCwn_2ADVUuU102BkU-53" target="77e6c97f196da883-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-20" target="77e6c97f196da883-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-23" target="77e6c97f196da883-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="107ba76e4e335f99-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-22" target="77e6c97f196da883-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="610" />
-              <mxPoint x="660" y="550" />
-              <mxPoint x="400" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="107ba76e4e335f99-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" parent="77e6c97f196da883-1" source="77e6c97f196da883-22" target="77e6c97f196da883-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="107ba76e4e335f99-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-22" target="77e6c97f196da883-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="610" />
-              <mxPoint x="660" y="550" />
-              <mxPoint x="80" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="107ba76e4e335f99-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-10" target="77e6c97f196da883-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="650" />
-              <mxPoint x="490" y="650" />
-              <mxPoint x="490" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="107ba76e4e335f99-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-14" target="77e6c97f196da883-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="Radicación" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -118,9 +76,6 @@
         <mxCell id="77e6c97f196da883-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Validación de Usuario y Requisitos Administrativos&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="45" y="145" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
-          <mxGeometry x="30" y="560" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-4" source="77e6c97f196da883-16" target="77e6c97f196da883-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -151,35 +106,8 @@
         <mxCell id="77e6c97f196da883-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Se programa cita de cirugía con el Radicador y se crea una cirugía&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="5" y="30" width="150" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
-          <mxGeometry x="30" y="560" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
-          <mxGeometry x="40" y="640" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-5" source="77e6c97f196da883-19" target="77e6c97f196da883-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-6" value="Canasta Cirugía" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="690" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-18" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="30" y="400" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-21" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="30" y="480" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-22" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="30" y="560" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-23" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-6" source="77e6c97f196da883-18" target="77e6c97f196da883-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-6" source="77e6c97f196da883-21" target="77e6c97f196da883-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="77e6c97f196da883-6" source="L7PCwn_2ADVUuU102BkU-27" target="L7PCwn_2ADVUuU102BkU-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -205,23 +133,23 @@
         <mxCell id="77e6c97f196da883-7" value="Admisiones" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="850" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-7" source="L7PCwn_2ADVUuU102BkU-37" target="L7PCwn_2ADVUuU102BkU-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-37" value="Admisiones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;fontFamily=Verdana;fillColor=default;align=center;whiteSpace=wrap;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="65" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L7PCwn_2ADVUuU102BkU-44" value="Deben crear el registro del paciente y asignarle la cirugía creada con el Radicador que tiene la canasta" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-7" vertex="1">
+        <mxCell id="L7PCwn_2ADVUuU102BkU-44" value="Deben crear el registro del paciente y asignarle la cirugía creada con el Radicador que tiene la canasta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="10" y="145" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cLltMPZeHG3RYmDiKCV2-1" value="Obligatorio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="70" y="215" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-35" value="Historia Clinica" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="1010" y="20" width="160" height="730" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-36" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="L7PCwn_2ADVUuU102BkU-35" vertex="1">
-          <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="160" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-50" value="Medico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="L7PCwn_2ADVUuU102BkU-35" vertex="1">
           <mxGeometry x="65" y="20" width="30" height="60" as="geometry" />

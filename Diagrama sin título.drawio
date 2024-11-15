@@ -281,9 +281,6 @@
         <mxCell id="gflDIcsYQXE6r20Nl0A7-24" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="895" y="372" width="35" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="8OTGgmuR_UQAxkCYT1xF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

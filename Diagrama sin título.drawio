@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="947" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="L7PCwn_2ADVUuU102BkU-18" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="110" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L7PCwn_2ADVUuU102BkU-53" value="Medico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="L7PCwn_2ADVUuU102BkU-53" value="Medico Especialista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="65" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Medico crea una orden de procedimiento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
@@ -167,32 +167,14 @@
         <mxCell id="cLltMPZeHG3RYmDiKCV2-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Se abre una ventana con los radicadores listos para cirugía y crea la canasta al radicador&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="5" y="190" width="150" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-7" value="Admisiones" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-7" value="Cirugía" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="850" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="L7PCwn_2ADVUuU102BkU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-7" source="L7PCwn_2ADVUuU102BkU-37" target="L7PCwn_2ADVUuU102BkU-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L7PCwn_2ADVUuU102BkU-37" value="Admisiones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;fontFamily=Verdana;fillColor=default;align=center;whiteSpace=wrap;" parent="77e6c97f196da883-7" vertex="1">
+        <mxCell id="L7PCwn_2ADVUuU102BkU-50" value="Medico Cirujano" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="65" y="30" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L7PCwn_2ADVUuU102BkU-44" value="Deben crear el registro del paciente y asignarle la cirugía creada con el Radicador que tiene la canasta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="10" y="145" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cLltMPZeHG3RYmDiKCV2-1" value="Obligatorio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="77e6c97f196da883-7">
-          <mxGeometry x="70" y="215" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-35" value="Historia Clinica" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="1010" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="cLltMPZeHG3RYmDiKCV2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="L7PCwn_2ADVUuU102BkU-35" source="L7PCwn_2ADVUuU102BkU-50" target="cLltMPZeHG3RYmDiKCV2-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L7PCwn_2ADVUuU102BkU-50" value="Medico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="L7PCwn_2ADVUuU102BkU-35" vertex="1">
-          <mxGeometry x="65" y="20" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cLltMPZeHG3RYmDiKCV2-22" value="Seleccionar el radicador cuando inserte la cirugía" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L7PCwn_2ADVUuU102BkU-35">
-          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L7PCwn_2ADVUuU102BkU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="L7PCwn_2ADVUuU102BkU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />

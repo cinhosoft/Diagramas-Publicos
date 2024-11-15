@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.6">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1660" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,10 +171,15 @@
           <mxGeometry x="17.5" y="130" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gflDIcsYQXE6r20Nl0A7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-6" source="gflDIcsYQXE6r20Nl0A7-1" target="cLltMPZeHG3RYmDiKCV2-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="335" />
+              <mxPoint x="10" y="185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gflDIcsYQXE6r20Nl0A7-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;¿Se creó canasta con el radicador?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="20" y="270" width="120" height="130" as="geometry" />
+          <mxGeometry x="32.5" y="270" width="95" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gflDIcsYQXE6r20Nl0A7-15" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry y="317" width="30" height="20" as="geometry" />
@@ -206,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gflDIcsYQXE6r20Nl0A7-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;¿Seleccionó Radicador?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="20" y="270" width="120" height="130" as="geometry" />
+          <mxGeometry x="25" y="270" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gflDIcsYQXE6r20Nl0A7-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Se actualiza los campos del registro y la cirugía en la canasta&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="5" y="458" width="150" height="77.5" as="geometry" />
